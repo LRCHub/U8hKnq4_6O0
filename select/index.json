@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "まだいきてるいめーじ",
+  "base_artist": "いのうつはSA",
+  "createdAt": "2025-12-03T07:25:03.274416Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まだいきてるいめーじ",
+      "artist": "いのうつはSA, 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_まだいきてるいめーじ_いのうつはSA,_初音ミク.txt"
+    }
+  ]
+}
